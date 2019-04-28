@@ -1,6 +1,7 @@
 # 3D models
 
-A percentage of the 3D the models created by me and used for different projects that i worked on
+A percentage of the 3D the models created by me and used for different projects that i worked 
+* All of these models were made in 3ds Max / SketchUp / Zbrush / etc.
 * Some of these models / images were made a long time ago,
 * Some of these images are baked and rendered.
 
@@ -32,5 +33,8 @@ alt="IMAGE ALT TEXT HERE" width="320" height="180" border="10" /></a>
 
 
 ## Rendered projects:
+
+Other projects that i've worked on required rendering
+* Here are some examples of rendered models
 
 ![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/09.jpg "image")
