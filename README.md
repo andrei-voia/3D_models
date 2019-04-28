@@ -35,6 +35,9 @@ alt="IMAGE ALT TEXT HERE" width="320" height="180" border="10" /></a>
 ## Rendered projects:
 
 Other projects that i've worked on required rendering
-* Here are some examples of rendered models
+* Here are some examples of rendered models:
 
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/audi_R8.png "image")
 ![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/09.jpg "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/chestii albe.jpg "image")
+
