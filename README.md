@@ -3,7 +3,8 @@
 A part of the 3D the models created by me and used for different projects that i worked on.
 * All of these models were made in 3ds Max / SketchUp / Zbrush / etc,
 * Some of these models / images were made a long time ago,
-* Some of these images are baked and rendered.
+* Some of these images are baked and rendered,
+* Most of the projects have more of a complex geometry.
 
 ## Youtube videos
 
