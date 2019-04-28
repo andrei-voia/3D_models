@@ -1,7 +1,7 @@
 # 3D models
 
 A percentage of the 3D the models created by me and used for different projects that i worked 
-* All of these models were made in 3ds Max / SketchUp / Zbrush / etc.
+* All of these models were made in 3ds Max / SketchUp / Zbrush / etc,
 * Some of these models / images were made a long time ago,
 * Some of these images are baked and rendered.
 
