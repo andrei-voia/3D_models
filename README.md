@@ -4,7 +4,10 @@ A percentage of the 3D the models created by me and used for different projects 
 * Some of these models / images were made a long time ago,
 * Some of these images are baked and rendered.
 
-## Click to play youtube video:
+## Youtube videos
+
+I created videos for some of these projects
+* It is possible for you to watch the videos on youtube:
 
 ### Video 1:
 https://www.youtube.com/watch?v=SwQiqci6MNQ
