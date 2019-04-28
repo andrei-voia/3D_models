@@ -73,4 +73,12 @@ Here are some 3D models, without any rendering applied to them
 ![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_9.png "image")
 ![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_10.png "image")
 
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_8%20(2).png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_11.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_12.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_13.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_14.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_15.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_16.png "image")
+
 
