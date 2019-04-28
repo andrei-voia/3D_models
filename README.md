@@ -60,3 +60,17 @@ Here are some 3D models, without any rendering applied to them
 
 ![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_2.png "image")
 ![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_3.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_1.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_4.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/18.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/16.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_17.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_18.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_5.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_6.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_7.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_8.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_9.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_10.png "image")
+
+
