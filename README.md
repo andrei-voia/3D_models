@@ -53,3 +53,10 @@ Other projects that i've worked on required rendering
 ![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/2.jpg "image")
 
 
+
+## 3D Models:
+
+Here are some 3D models, without any rendering applied to them
+
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_2.png "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/Screenshot_3.png "image")
