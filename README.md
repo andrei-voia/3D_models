@@ -39,6 +39,7 @@ Other projects that i've worked on required rendering
 
 ![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/audi_R8.png "image")
 ![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/09.jpg "image")
+![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/soare%20misteaux.jpg "image")
 ![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/chestii%20albe.jpg "image")
 ![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/afara.jpg "image")
 ![alt text](https://github.com/andrei-voia/personal_3D_models/blob/master/imgs/afara%20sus.jpg "image")
